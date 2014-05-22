@@ -4,3 +4,4 @@
 .ruby-gemset
 
 /log
+config/deploy.yml
