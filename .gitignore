@@ -1,0 +1,6 @@
+*.swp
+
+.ruby-version
+.ruby-gemset
+
+/log
