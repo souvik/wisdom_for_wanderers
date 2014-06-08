@@ -98,3 +98,7 @@ body.index .jumbotron {
   padding-top: 10px;
   padding-bottom: 25%;
 }
+
+div.photos div.img-box {
+  margin-bottom: 20px;
+}
