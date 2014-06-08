@@ -74,3 +74,27 @@ footer p {
 body.posts div.post-listing {
   margin-bottom: 20px;
 }
+
+/* posts/content_type_template.liquid */
+article.post p.tags span {
+  margin-left: 10px;
+}
+
+article.post h3.posted-at {
+  font-size: 20px;
+  margin-top: 0px;
+  color: #999;
+}
+
+/* home page */
+body.index .jumbotron {
+  color: #fff;
+  text-align: justify;
+  background-image: url('../images/new_york_at_night.jpg');
+  background-position: center top;
+}
+
+body.index .jumbotron {
+  padding-top: 10px;
+  padding-bottom: 25%;
+}

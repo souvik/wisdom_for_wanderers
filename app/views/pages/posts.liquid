@@ -24,7 +24,7 @@ position: 1
 
 {% block main %}
   <div class="row posts">
-    {% paginate contents.posts by 6 %}
+    {% paginate contents.posts by 12 %}
       {% for post in paginate.collection %}
         <div class="post-listing col-sm-6 col-md-4">
           <div class="thumbnail">
